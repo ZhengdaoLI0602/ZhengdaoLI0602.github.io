@@ -3,6 +3,9 @@ Name: LI Zhengdao
 ID: 18081447D 
 -->
 
+<!-- NOTE: -->
+<!-- Navigaiton bar takes reference at: https://www.w3schools.com/howto/howto_js_topnav.asp -->
+
 
 
 <html>
@@ -13,6 +16,8 @@ ID: 18081447D
     <style>
         body {
             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            scroll-behavior: smooth;
+            margin: 0;
         }
         
         .container {
@@ -198,13 +203,59 @@ ID: 18081447D
             border: none;
             opacity: 0.7;
         }
+        
+        .topnav {
+            position: relative;
+            overflow: hidden;
+            background-color: white;
+            z-index: 2;
+        }
+        
+        .topnav a {
+            float: left;
+            color: black;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            font-size: 40px;
+            border: black 1px solid;
+        }
+        
+        .topnav a:hover {
+            background-color: #ddd;
+            color: black;
+            border: none;
+        }
+        
+        .topnav a.active {
+            background-color: #04AA6D;
+            color: white;
+        }
+        
+        .testing {
+            position: fixed;
+            text-align: center;
+            color: white;
+            z-index: 2;
+            display: inline-block;
+        }
     </style>
 
 </head>
 
 <body>
+    <div class="testing">
+        <div class="topnav">
+            <a class="active" href="#home">Home</a>
+            <a href="#researchinterests">Research Interests</a>
+            <a href="#achievements&awards">Achievements and Awards</a>
+            <a href="#skills">Skills</a>
+            <a href="#contactme">Contact Me</a>
+        </div>
+    </div>
+
     <!-- First block: Basic introduction-->
-    <div class="container">
+    <div id="home" class="container">
         <div class="parallax parallax1">
             <div class="caption">
                 <span class="border">LI Zhengdao</span>
@@ -223,7 +274,7 @@ ID: 18081447D
     </div>
 
     <!-- Second block: Research Interest-->
-    <div class="container">
+    <div id="researchinterests" class="container">
         <div class="parallax parallax2">
             <div class="caption">
                 <span class="border">Research Interests</span>
@@ -256,7 +307,7 @@ ID: 18081447D
     </div>
 
     <!-- Third block: Achievements and Awards -->
-    <div class="container">
+    <div id="achievements&awards" class="container">
         <div class="parallax parallax3">
             <div class="caption">
                 <span class="border">Achievements and Awards</span>
@@ -287,7 +338,7 @@ ID: 18081447D
     </div>
 
     <!-- Fourth block: Skills -->
-    <div class="container">
+    <div id="skills" class="container">
         <div class="parallax parallax4">
             <div class="caption">
                 <span class="border">Skills</span>
@@ -318,7 +369,7 @@ ID: 18081447D
     </div>
 
     <!-- Fifth block: Contact me -->
-    <div class="container">
+    <div id="contactme" class="container">
         <div class="parallax parallax5">
             <div class="caption">
                 <span class="border">Contact Me</span>
