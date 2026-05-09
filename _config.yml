@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhengdao LI"
-description              : "Ph.D. student at The Hong Kong Polytechnic University researching robust GNSS positioning, non-Gaussian error modelling, and integrity monitoring."
+# description              : "Ph.D. student at The Hong Kong Polytechnic University"
 repository               : "ZhengdaoLI0602/ZhengdaoLI0602.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,10 +22,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhengdao LI"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Ph.D. Student"
+  avatar           : "images/LZD.JPG"
+  bio              : "Ph.D. student at The Hong Kong Polytechnic University"
   location         : "Kowloon, Hong Kong"
-  employer         : "The Hong Kong Polytechnic University"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=vLO_7fwAAAAJ"
   email            : "zhengdao0.li@connect.polyu.hk"
