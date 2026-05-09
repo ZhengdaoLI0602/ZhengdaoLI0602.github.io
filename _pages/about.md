@@ -26,6 +26,10 @@ My current research interests include non-Gaussian GNSS error modelling, robust 
 
 # Publications
 
+- [Improved GNSS Positioning in Urban Environments Using a Logistic Error Model](https://doi.org/10.33012/2026.20582)
+Zhengdao Li, Penggao Yan, Li-Ta Hsu
+*ION Pacific PNT Conference 2026*
+
 - Li, Z., Yan, P., & Hsu, L. T. (2026, April 13-16). *Improved GNSS Positioning in Urban Environments Using a Logistic Error Model.* ION Pacific PNT Conference, Honolulu, HI.
 - Li, Z., Yan, P., Wen, W., & Hsu, L. T. (2026). *Cauchy-Gaussian Overbound for Heavy-tailed GNSS Measurement Errors.* NAVIGATION: Journal of the Institute of Navigation, 73. [DOI](https://doi.org/10.33012/navi.749)
 - Li, Z., Yan, P., Wen, W., & Hsu, L. T. (2025, April 28 - May 1). *Paired Cauchy-Gaussian overbound for not symmetric unimodal heavy-tailed distributions.* IEEE/ION Position, Location and Navigation Symposium (PLANS), Salt Lake City, UT, 214-225. [IEEE Xplore](https://ieeexplore.ieee.org/document/11028215)
