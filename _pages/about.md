@@ -33,7 +33,7 @@ My current research interests include non-Gaussian GNSS error modelling, robust 
 - `Remote Sensing 2023` [Intelligent Environment-Adaptive GNSS/INS Integrated Positioning with Factor Graph Optimization](https://doi.org/10.3390/rs16010181), **Zhengdao Li**, Pin-Hsun Lee, Tsz Hin Marcus Hung, Guohao Zhang Li-Ta Hsu.
 
 ## Conference
-- `ION Pacific PNT Conference 2026` [Improved GNSS Positioning in Urban Environments Using a Logistic Error Model](https://doi.org/10.33012/2026.20582), **Zhengdao Li**, Penggao Yan, Li-Ta Hsu. \| [**Open-sourced file**](https://www.researchgate.net/publication/404449542_Improved_GNSS_Positioning_in_Urban_Environments_Using_a_Logistic_Error_Model)
+- [`ION Pacific PNT Conference 2026`](https://doi.org/10.33012/2026.20582) [Improved GNSS Positioning in Urban Environments Using a Logistic Error Model](https://doi.org/10.33012/2026.20582), **Zhengdao Li**, Penggao Yan, Li-Ta Hsu. \| [**Open-sourced file**](https://www.researchgate.net/publication/404449542_Improved_GNSS_Positioning_in_Urban_Environments_Using_a_Logistic_Error_Model)
 - `IEEE/ION PLANS 2025` [Paired Cauchy-Gaussian overbound for not symmetric unimodal heavy-tailed distributions](https://ieeexplore.ieee.org/document/11028215), **Zhengdao Li**, Penggao Yan, Weisong Wen, Li-Ta Hsu. \| [**Open-sourced file**](https://www.researchgate.net/publication/392639625_Paired_Cauchy-Gaussian_overbound_for_not_symmetric_unimodal_heavy-tailed_distributions) 
 
 ## Preprint
