@@ -122,3 +122,19 @@ h1:before, .anchor:before {
     border-radius: 0;
     vertical-align: baseline;
 }
+
+.publication-list a {
+    color: $link-color;
+    text-decoration: none;
+}
+
+.publication-list a:hover,
+.publication-list a:focus {
+    color: $link-color-hover;
+    text-decoration: none;
+}
+
+.publication-list .pub-author {
+    font-weight: 700;
+    text-decoration: underline;
+}
