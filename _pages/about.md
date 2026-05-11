@@ -35,6 +35,31 @@ My current research interests include non-Gaussian GNSS error modelling, robust 
     padding: 0.12em 0.45em;
     font-size: 0.9em;
   }
+
+  .pub-venue {
+    display: inline-block;
+    margin-right: 0.4em;
+    padding: 0.12em 0.45em;
+    background-color: $publication-venue-badge-bg;
+    border-radius: 0;
+    vertical-align: baseline;
+  }
+
+  .publication-list a {
+      color: $link-color;
+      text-decoration: none;
+  }
+
+  .publication-list a:hover,
+  .publication-list a:focus {
+      color: $link-color-hover;
+      text-decoration: none;
+  }
+
+  .publication-list .pub-author {
+      font-weight: 700;
+      text-decoration: underline;
+  }
 </style>
 
 
@@ -67,6 +92,7 @@ My current research interests include non-Gaussian GNSS error modelling, robust 
 
 
 <span class='anchor' id='education'></span>
+# Education
 
 - *2024.09 - Present*, PhD in Aerospace Engineering, The Hong Kong Polytechnic University
 - *2022.10 - 2023.10*, MSc Advanced Aeronautical Engineering, Imperial College London
