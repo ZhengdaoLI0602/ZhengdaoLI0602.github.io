@@ -27,9 +27,18 @@ My current research interests include non-Gaussian GNSS error modelling, robust 
 <span class='anchor' id='publications'></span>
 # Publications
 
+<style>
+  .venue-label {
+    display: inline-block;
+    background-color: #224b8d;
+    color: #fff;
+    padding: 0.12em 0.45em;
+    font-size: 0.9em;
+  }
+</style>
+
 ## Journal
-- `NAVIGATION 2026` [Cauchy-Gaussian Overbound for Heavy-tailed GNSS Measurement Errors](https://doi.org/10.33012/navi.749), **Zhengdao Li**, Penggao Yan, Weisong Wen, Li-Ta Hsu.
-- <code style="background-color:#224b8d;color:#fff;padding:0.12em 0.45em;font-size:0.9em;">NAVIGATION 2026</code> [Cauchy-Gaussian Overbound for Heavy-tailed GNSS Measurement Errors](https://doi.org/10.33012/navi.749), **Zhengdao Li**, Penggao Yan, Weisong Wen, Li-Ta Hsu.
+- <code class="venue-label">NAVIGATION 2026</code> [Cauchy-Gaussian Overbound for Heavy-tailed GNSS Measurement Errors](https://doi.org/10.33012/navi.749), **Zhengdao Li**, Penggao Yan, Weisong Wen, Li-Ta Hsu.
 - `NAVIGATION 2024` [Fault Detection Algorithm for Gaussian Mixture Noises: An Application in Lidar/IMU Integrated Localization Systems](https://doi.org/10.33012/navi.684), Penggao Yan, **Zhengdao Li**, Feng Huang, Weisong Wen, Li-Ta Hsu.
 - `Remote Sensing 2023` [Intelligent Environment-Adaptive GNSS/INS Integrated Positioning with Factor Graph Optimization](https://doi.org/10.3390/rs16010181), **Zhengdao Li**, Pin-Hsun Lee, Tsz Hin Marcus Hung, Guohao Zhang Li-Ta Hsu.
 
