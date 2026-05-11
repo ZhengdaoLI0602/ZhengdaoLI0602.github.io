@@ -1,13 +1,10 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
-
-  # - title: "Works in Progress"
-  #   url: "/#works-in-progress"
+    url: "/"
 
   - title: "Publications"
-    url: "/#publications"
+    url: "/publications/"
 
   - title: "Education"
-    url: "/#education"
+    url: "/education/"
