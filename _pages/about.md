@@ -28,17 +28,17 @@ My current research interests include non-Gaussian GNSS error modelling, robust 
 # Publications
 
 ## Journal
-- `NAVIGATION 2026` [Cauchy-Gaussian Overbound for Heavy-tailed GNSS Measurement Errors](https://doi.org/10.33012/navi.749), **Zhengdao Li**, Penggao Yan, Weisong Wen, Li-Ta Hsu.
-- `NAVIGATION 2024` [Fault Detection Algorithm for Gaussian Mixture Noises: An Application in Lidar/IMU Integrated Localization Systems](https://doi.org/10.33012/navi.684), Penggao Yan, **Zhengdao Li**, Feng Huang, Weisong Wen, Li-Ta Hsu.
-- `Remote Sensing 2023` [Intelligent Environment-Adaptive GNSS/INS Integrated Positioning with Factor Graph Optimization](https://doi.org/10.3390/rs16010181), **Zhengdao Li**, Pin-Hsun Lee, Tsz Hin Marcus Hung, Guohao Zhang Li-Ta Hsu.
+- <span class="pub-venue">NAVIGATION 2026</span> [Cauchy-Gaussian Overbound for Heavy-tailed GNSS Measurement Errors](https://doi.org/10.33012/navi.749), **Zhengdao Li**, Penggao Yan, Weisong Wen, Li-Ta Hsu.
+- <span class="pub-venue">NAVIGATION 2024</span> [Fault Detection Algorithm for Gaussian Mixture Noises: An Application in Lidar/IMU Integrated Localization Systems](https://doi.org/10.33012/navi.684), Penggao Yan, **Zhengdao Li**, Feng Huang, Weisong Wen, Li-Ta Hsu.
+- <span class="pub-venue">Remote Sensing 2023</span> [Intelligent Environment-Adaptive GNSS/INS Integrated Positioning with Factor Graph Optimization](https://doi.org/10.3390/rs16010181), **Zhengdao Li**, Pin-Hsun Lee, Tsz Hin Marcus Hung, Guohao Zhang Li-Ta Hsu.
 
 ## Conference
-- [`ION Pacific PNT Conference 2026`](https://doi.org/10.33012/2026.20582) [Improved GNSS Positioning in Urban Environments Using a Logistic Error Model](https://doi.org/10.33012/2026.20582), **Zhengdao Li**, Penggao Yan, Li-Ta Hsu. \| [**Open-sourced file**](https://www.researchgate.net/publication/404449542_Improved_GNSS_Positioning_in_Urban_Environments_Using_a_Logistic_Error_Model)
-- `IEEE/ION PLANS 2025` [Paired Cauchy-Gaussian overbound for not symmetric unimodal heavy-tailed distributions](https://ieeexplore.ieee.org/document/11028215), **Zhengdao Li**, Penggao Yan, Weisong Wen, Li-Ta Hsu. \| [**Open-sourced file**](https://www.researchgate.net/publication/392639625_Paired_Cauchy-Gaussian_overbound_for_not_symmetric_unimodal_heavy-tailed_distributions) 
+- <span class="pub-venue">ION Pacific PNT Conference 2026</span> [Improved GNSS Positioning in Urban Environments Using a Logistic Error Model](https://doi.org/10.33012/2026.20582), **Zhengdao Li**, Penggao Yan, Li-Ta Hsu. \| [**Open-sourced file**](https://www.researchgate.net/publication/404449542_Improved_GNSS_Positioning_in_Urban_Environments_Using_a_Logistic_Error_Model)
+- <span class="pub-venue">IEEE/ION PLANS 2025</span> [Paired Cauchy-Gaussian overbound for not symmetric unimodal heavy-tailed distributions](https://ieeexplore.ieee.org/document/11028215), **Zhengdao Li**, Penggao Yan, Weisong Wen, Li-Ta Hsu. \| [**Open-sourced file**](https://www.researchgate.net/publication/392639625_Paired_Cauchy-Gaussian_overbound_for_not_symmetric_unimodal_heavy-tailed_distributions) 
 
 ## Preprint
-- `ArXiv 2026` [Improved GNSS Positioning in Urban Environments Using a Logistic Error Model](https://doi.org/10.48550/arXiv.2603.16420), **Zhengdao Li**, Penggao Yan, Baoshan Song, Li-Ta Hsu.
-- `ArXiv 2026` [Logistic-aided Huber M-estimator for robust GNSS positioning](https://doi.org/10.48550/arXiv.2603.19640), **Zhengdao Li**, Penggao Yan, Li-Ta Hsu.
+- <span class="pub-venue">ArXiv 2026</span> [Improved GNSS Positioning in Urban Environments Using a Logistic Error Model](https://doi.org/10.48550/arXiv.2603.16420), **Zhengdao Li**, Penggao Yan, Baoshan Song, Li-Ta Hsu.
+- <span class="pub-venue">ArXiv 2026</span> [Logistic-aided Huber M-estimator for robust GNSS positioning](https://doi.org/10.48550/arXiv.2603.19640), **Zhengdao Li**, Penggao Yan, Li-Ta Hsu.
 
 
 <!-- - Li, Z., Lee, P.-H., Hung, T. H. M., Zhang, G., & Hsu, L.-T. (2024). *Intelligent Environment-Adaptive GNSS/INS Integrated Positioning with Factor Graph Optimization.* Remote Sensing, 16(1), 181.

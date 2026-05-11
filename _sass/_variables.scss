@@ -70,6 +70,10 @@ $danger-color               : #ee5f5b;
 $info-color                 : #224b8d;
 // $info-color                 : #52adc8;
 
+/* publication list venue pill (same navy as links / $info-color) */
+$publication-venue-badge-bg    : $info-color;
+$publication-venue-badge-color : #fff;
+
 /* brands */
 $behance-color              : #1769FF;
 $dribbble-color             : #ea4c89;
