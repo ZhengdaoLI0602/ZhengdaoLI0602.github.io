@@ -11,15 +11,15 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About Me
 
-Hi, I am Zhengdao Li, a second-year Ph.D. student in the [https://qmohsu.github.io/](Intelligent Positioning and Navigation Laboratory) at The Hong Kong Polytechnic University, under the supervision of Prof. [Li-Ta Hsu](https://www.polyu.edu.hk/aae/people/academic-staff/dr-hsu-li-ta/).
+Hi, I am Zhengdao Li, a second-year Ph.D. student in the [Intelligent Positioning and Navigation Laboratory](https://qmohsu.github.io/) at The Hong Kong Polytechnic University, under the supervision of Prof. [Li-Ta Hsu](https://www.polyu.edu.hk/aae/people/academic-staff/dr-hsu-li-ta/).
 
 My current research interests include non-Gaussian GNSS error modelling, robust statistical methods for urban positioning, and integrity monitoring for safety-critical navigation applications.
 
 
 
-<span class='anchor' id='works-in-progress'></span>
+<!-- <span class='anchor' id='works-in-progress'></span>
 # Works in Progress
-- Li, Z., Yan, P., & Hsu, L. T. (2026, September 14-18). *Logistic-aided Huber M-estimator for robust GNSS positioning.* Long abstract accepted in ION GNSS+ 2026, Orlando, FL.
+- Li, Z., Yan, P., & Hsu, L. T. (2026, September 14-18). *Logistic-aided Huber M-estimator for robust GNSS positioning.* Long abstract accepted in ION GNSS+ 2026, Orlando, FL. -->
 
 
 
