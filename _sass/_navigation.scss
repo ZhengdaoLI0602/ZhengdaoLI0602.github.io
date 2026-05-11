@@ -183,7 +183,7 @@
     padding: 0.5rem 0;
     color: $masthead-link-color;
     text-decoration: none;
-    font-size: 25px;
+    font-size: $type-size-3;
 
     &:hover {
       color: $masthead-link-color-hover;
@@ -264,7 +264,7 @@
     a {
       margin: 0;
       padding: 10px 20px;
-      font-size: $type-size-5;
+      font-size: $type-size-3;
 
       &:hover {
         color: $masthead-link-color-hover;
