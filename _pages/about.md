@@ -63,3 +63,12 @@ My current research interests include non-Gaussian GNSS error modelling, robust 
 - Li, Z., Yan, P., Wen, W., & Hsu, L. T. (2025, April 28 - May 1). *Paired Cauchy-Gaussian overbound for not symmetric unimodal heavy-tailed distributions.* IEEE/ION Position, Location and Navigation Symposium (PLANS), Salt Lake City, UT, 214-225. [IEEE Xplore](https://ieeexplore.ieee.org/document/11028215)
 - Yan, P., Li, Z., Huang, F., Wen, W., & Hsu, L. T. (2024). *Fault Detection Algorithm for Gaussian Mixture Noises: An Application in Lidar/IMU Integrated Localization Systems.* NAVIGATION: Journal of the Institute of Navigation, 72(1).
 - Li, Z., Lee, P.-H., Hung, T. H. M., Zhang, G., & Hsu, L.-T. (2024). *Intelligent Environment-Adaptive GNSS/INS Integrated Positioning with Factor Graph Optimization.* Remote Sensing, 16(1), 181. -->
+
+
+
+<span class='anchor' id='education'></span>
+
+- *2024.09 - Present*, PhD in Aerospace Engineering, The Hong Kong Polytechnic University
+- *2022.10 - 2023.10*, MSc Advanced Aeronautical Engineering, Imperial College London
+- *2018.09 - 2022.06*, BEng Aviation Engineering, The Hong Kong Polytechnic University
+
