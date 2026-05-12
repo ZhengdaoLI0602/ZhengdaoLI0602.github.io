@@ -3,11 +3,9 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  # - title: "Works in Progress"
-  #   url: "/#works-in-progress"
 
   - title: "Publications"
     url: "/#publications"
 
-  - title: "Education"
-    url: "/#education"
+  # - title: "Education"
+  #   url: "/#education"
