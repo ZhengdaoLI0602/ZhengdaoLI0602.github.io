@@ -20,7 +20,8 @@ My current research interests include non-Gaussian GNSS error modelling, robust 
 - Li, Z., Yan, P., & Hsu, L. T. (2026, September 14-18). *Logistic-aided Huber M-estimator for robust GNSS positioning.* Long abstract accepted in ION GNSS+ 2026, Orlando, FL. -->
 
 <span class='anchor' id='publications'></span>
-📝 <h1 class="section-title--large">Publications</h1>
+<!-- 📝 <h1 class="section-title--large">Publications</h1> -->
+# 📝 Publications
 
 <style>
   .venue-label {
@@ -75,7 +76,8 @@ My current research interests include non-Gaussian GNSS error modelling, robust 
 </div>
 
 <span class='anchor' id='education'></span>
-📖 <h1 class="section-title--large">Education</h1>
+<!-- 📖 <h1 class="section-title--large">Education</h1> -->
+# 📖 Education
 
 - *2024.09 - Present*, PhD in Satellite Navigation and Communication, The Hong Kong Polytechnic University
 - *2022.10 - 2023.10*, MSc Advanced Aeronautical Engineering, Imperial College London
